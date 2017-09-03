@@ -1,0 +1,17 @@
+.wrap{
+  margin: 0 auto;
+}
+h1{
+  font-size: 32px;
+  font-family: monospace;
+  margin: 40px;
+  text-align: center;
+}
+
+.we-are-ninjas{
+  width: 256px;
+  height: 256px;
+  margin: 0 auto;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
